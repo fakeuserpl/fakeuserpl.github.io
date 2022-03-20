@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://desolate-spire-87391.herokuapp.com/v1/task/';
+  var apiRoot = 'https://fathomless-lake-96444.herokuapp.com/v1/task/';
   var datatableRowTemplate = $('[data-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
